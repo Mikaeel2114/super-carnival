@@ -1,0 +1,11 @@
+.dart_tool/
+.flutter-plugins*
+.packages
+.pub-cache/
+build/
+android/
+windows/
+backend/dist/
+backend/build/
+backend/*.spec
+__pycache__/
